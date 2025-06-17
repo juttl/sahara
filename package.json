@@ -1,9 +1,9 @@
 {
-  "name": "grandknix",
+  "name": "juttl",
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://juttl.github.io/grandknix",
+  "homepage": "https://juttl.github.io/sahara",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
